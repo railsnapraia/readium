@@ -611,17 +611,15 @@ body {
       outline: 0;
       line-height: 50px;
       word-break: break-word;
-      color: white;
-      text-shadow: 0px 1px 16px rgba(0, 0, 0, 0.5), 0px 0px 1px rgba(0, 0, 0, 0.5); }
+      color: rgb(120, 25, 25);
     .bottom-closer .inner .blog-description {
       margin: 0 0 50px;
       padding: 0 32px;
       font-size: 18px;
       line-height: 1.5;
-      color: white;
+      color: rgb(120, 25, 25);
       text-align: center;
       font-weight: 400;
-      text-shadow: 0px 1px 16px rgba(0, 0, 0, 0.5), 0px 0px 1px rgba(0, 0, 0, 0.5); }
     .bottom-closer .inner .custom-links {
       margin: 0 0 50px; }
     .bottom-closer .inner .btn {
