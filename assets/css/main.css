@@ -612,6 +612,7 @@ body {
       line-height: 50px;
       word-break: break-word;
       color: rgb(120, 25, 25);
+    }
     .bottom-closer .inner .blog-description {
       margin: 0 0 50px;
       padding: 0 32px;
@@ -620,6 +621,7 @@ body {
       color: rgb(120, 25, 25);
       text-align: center;
       font-weight: 400;
+    }
     .bottom-closer .inner .custom-links {
       margin: 0 0 50px; }
     .bottom-closer .inner .btn {
